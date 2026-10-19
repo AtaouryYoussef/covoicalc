@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48081038968",
+    "project_id": "covoitcalc-7f858",
+    "storage_bucket": "covoitcalc-7f858.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48081038968:android:1060a26465e966cc5d478d",
+        "android_client_info": {
+          "package_name": "com.example.covoitcalc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0xYuDaIDnC87mevpydv5yu4uVmVPfuwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
